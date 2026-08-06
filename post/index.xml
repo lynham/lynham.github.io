@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog | John Lynham</title>
+    <link>http://www2.hawaii.edu/~lynham/post/</link>
+      <atom:link href="http://www2.hawaii.edu/~lynham/post/index.xml" rel="self" type="application/rss+xml" />
+    <description>Blog</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© John Lynham 2025</copyright>
+    <image>
+      <url>http://www2.hawaii.edu/~lynham/images/icon_hua12831b0addb6ff2796cebd34c2f7d5a_402502_512x512_fill_lanczos_center_3.png</url>
+      <title>Blog</title>
+      <link>http://www2.hawaii.edu/~lynham/post/</link>
+    </image>
+    
+  </channel>
+</rss>
