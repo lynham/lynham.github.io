@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>6 | John Lynham</title>
+    <link>http://www2.hawaii.edu/~lynham/publication_types/6/</link>
+      <atom:link href="http://www2.hawaii.edu/~lynham/publication_types/6/index.xml" rel="self" type="application/rss+xml" />
+    <description>6</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© John Lynham 2025</copyright><lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://www2.hawaii.edu/~lynham/images/icon_hua12831b0addb6ff2796cebd34c2f7d5a_402502_512x512_fill_lanczos_center_3.png</url>
+      <title>6</title>
+      <link>http://www2.hawaii.edu/~lynham/publication_types/6/</link>
+    </image>
+    
+    <item>
+      <title>Real-time information and consumption: what can water demand programs learn from electricity demand programs?</title>
+      <link>http://www2.hawaii.edu/~lynham/publication/lynham-2014-real/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>http://www2.hawaii.edu/~lynham/publication/lynham-2014-real/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Disaster in Paradise: A Preliminary Investigation of the Socioeconomic Aftermaths of Two Coastal Disasters in Hawaii</title>
+      <link>http://www2.hawaii.edu/~lynham/publication/lynham-2013-disaster/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>http://www2.hawaii.edu/~lynham/publication/lynham-2013-disaster/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
