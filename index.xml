@@ -2,157 +2,157 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>John Lynham</title>
-    <link>http://www2.hawaii.edu/~lynham/</link>
-      <atom:link href="http://www2.hawaii.edu/~lynham/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://lynham.github.io/</link>
+      <atom:link href="https://lynham.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>John Lynham</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© John Lynham 2025</copyright><lastBuildDate>Mon, 01 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© John Lynham 2026</copyright><lastBuildDate>Mon, 01 Jul 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://www2.hawaii.edu/~lynham/images/icon_hua12831b0addb6ff2796cebd34c2f7d5a_402502_512x512_fill_lanczos_center_3.png</url>
+      <url>https://lynham.github.io/images/icon_hua12831b0addb6ff2796cebd34c2f7d5a_402502_512x512_fill_lanczos_center_3.png</url>
       <title>John Lynham</title>
-      <link>http://www2.hawaii.edu/~lynham/</link>
+      <link>https://lynham.github.io/</link>
     </image>
     
     <item>
       <title>FishNet: Deep Neural Networks for Low-Cost Fish Stock Estimation</title>
-      <link>http://www2.hawaii.edu/~lynham/publication/10622134/</link>
+      <link>https://lynham.github.io/publication/10622134/</link>
       <pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>http://www2.hawaii.edu/~lynham/publication/10622134/</guid>
+      <guid>https://lynham.github.io/publication/10622134/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A global test of MPA spillover benefits to recreational fisheries</title>
-      <link>http://www2.hawaii.edu/~lynham/publication/franceschini-2024-global/</link>
+      <link>https://lynham.github.io/publication/franceschini-2024-global/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://www2.hawaii.edu/~lynham/publication/franceschini-2024-global/</guid>
+      <guid>https://lynham.github.io/publication/franceschini-2024-global/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Comparing access to US marine and terrestrial protected areas</title>
-      <link>http://www2.hawaii.edu/~lynham/publication/abatayo-2024-comparing/</link>
+      <link>https://lynham.github.io/publication/abatayo-2024-comparing/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://www2.hawaii.edu/~lynham/publication/abatayo-2024-comparing/</guid>
+      <guid>https://lynham.github.io/publication/abatayo-2024-comparing/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Evidence of spillover benefits from large-scale marine protected areas to purse seine fisheries</title>
-      <link>http://www2.hawaii.edu/~lynham/publication/lynham-2024-evidence/</link>
+      <link>https://lynham.github.io/publication/lynham-2024-evidence/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://www2.hawaii.edu/~lynham/publication/lynham-2024-evidence/</guid>
+      <guid>https://lynham.github.io/publication/lynham-2024-evidence/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Value of Mangroves to Domestic Tourists and Local Households in South Sulawesi, Indonesia</title>
-      <link>http://www2.hawaii.edu/~lynham/publication/malik-2024-value/</link>
+      <link>https://lynham.github.io/publication/malik-2024-value/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://www2.hawaii.edu/~lynham/publication/malik-2024-value/</guid>
+      <guid>https://lynham.github.io/publication/malik-2024-value/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tiebout sorting in online communities</title>
-      <link>http://www2.hawaii.edu/~lynham/publication/lynham-2024-tiebout/</link>
+      <link>https://lynham.github.io/publication/lynham-2024-tiebout/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://www2.hawaii.edu/~lynham/publication/lynham-2024-tiebout/</guid>
+      <guid>https://lynham.github.io/publication/lynham-2024-tiebout/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ranking researchers: evidence from Indonesia</title>
-      <link>http://www2.hawaii.edu/~lynham/publication/fry-2023-ranking/</link>
+      <link>https://lynham.github.io/publication/fry-2023-ranking/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://www2.hawaii.edu/~lynham/publication/fry-2023-ranking/</guid>
+      <guid>https://lynham.github.io/publication/fry-2023-ranking/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Resource booms and group punishment in a coupled social-ecological system</title>
-      <link>http://www2.hawaii.edu/~lynham/publication/abatayo-2023-resource/</link>
+      <link>https://lynham.github.io/publication/abatayo-2023-resource/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://www2.hawaii.edu/~lynham/publication/abatayo-2023-resource/</guid>
+      <guid>https://lynham.github.io/publication/abatayo-2023-resource/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The charisma premium: Iconic individuals and wildlife values</title>
-      <link>http://www2.hawaii.edu/~lynham/publication/costello-2023-charisma/</link>
+      <link>https://lynham.github.io/publication/costello-2023-charisma/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://www2.hawaii.edu/~lynham/publication/costello-2023-charisma/</guid>
+      <guid>https://lynham.github.io/publication/costello-2023-charisma/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Spillover benefits from the world’s largest fully protected MPA</title>
-      <link>http://www2.hawaii.edu/~lynham/publication/medoff-2022-spillover/</link>
+      <link>https://lynham.github.io/publication/medoff-2022-spillover/</link>
       <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>http://www2.hawaii.edu/~lynham/publication/medoff-2022-spillover/</guid>
+      <guid>https://lynham.github.io/publication/medoff-2022-spillover/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Avoiding critical thresholds through effective monitoring</title>
-      <link>http://www2.hawaii.edu/~lynham/publication/stier-2022-avoiding/</link>
+      <link>https://lynham.github.io/publication/stier-2022-avoiding/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://www2.hawaii.edu/~lynham/publication/stier-2022-avoiding/</guid>
+      <guid>https://lynham.github.io/publication/stier-2022-avoiding/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Fishing activity before closure, during closure, and after reopening of the Northeast Canyons and Seamounts Marine National Monument</title>
-      <link>http://www2.hawaii.edu/~lynham/publication/lynham-2022-fishing/</link>
+      <link>https://lynham.github.io/publication/lynham-2022-fishing/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://www2.hawaii.edu/~lynham/publication/lynham-2022-fishing/</guid>
+      <guid>https://lynham.github.io/publication/lynham-2022-fishing/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Coastal armoring and sinking property values: the case of seawalls in California</title>
-      <link>http://www2.hawaii.edu/~lynham/publication/brucalcoastal/</link>
+      <link>https://lynham.github.io/publication/brucalcoastal/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://www2.hawaii.edu/~lynham/publication/brucalcoastal/</guid>
+      <guid>https://lynham.github.io/publication/brucalcoastal/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Detecting religion from space: Nyepi Day in Bali</title>
-      <link>http://www2.hawaii.edu/~lynham/publication/karang-2021-detecting/</link>
+      <link>https://lynham.github.io/publication/karang-2021-detecting/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://www2.hawaii.edu/~lynham/publication/karang-2021-detecting/</guid>
+      <guid>https://lynham.github.io/publication/karang-2021-detecting/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Importance of equitable cost sharing in the Convention on Biological Diversity&#39;s protected area agenda</title>
-      <link>http://www2.hawaii.edu/~lynham/publication/stark-2021-importance/</link>
+      <link>https://lynham.github.io/publication/stark-2021-importance/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://www2.hawaii.edu/~lynham/publication/stark-2021-importance/</guid>
+      <guid>https://lynham.github.io/publication/stark-2021-importance/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Reply to “Catch rate composition affects assessment of protected area impacts”</title>
-      <link>http://www2.hawaii.edu/~lynham/publication/lynham-2021-reply/</link>
+      <link>https://lynham.github.io/publication/lynham-2021-reply/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://www2.hawaii.edu/~lynham/publication/lynham-2021-reply/</guid>
+      <guid>https://lynham.github.io/publication/lynham-2021-reply/</guid>
       <description></description>
     </item>
     
     <item>
       <title>palmerpenguins</title>
-      <link>http://www2.hawaii.edu/~lynham/project/palmerpenguins/</link>
+      <link>https://lynham.github.io/project/palmerpenguins/</link>
       <pubDate>Thu, 11 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>http://www2.hawaii.edu/~lynham/project/palmerpenguins/</guid>
+      <guid>https://lynham.github.io/project/palmerpenguins/</guid>
       <description></description>
     </item>
     
     <item>
       <title>stat545.com</title>
-      <link>http://www2.hawaii.edu/~lynham/project/stat545.com/</link>
+      <link>https://lynham.github.io/project/stat545.com/</link>
       <pubDate>Tue, 21 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>http://www2.hawaii.edu/~lynham/project/stat545.com/</guid>
+      <guid>https://lynham.github.io/project/stat545.com/</guid>
       <description>&lt;p&gt;This online book contains a full course where users can learn to:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
@@ -174,9 +174,9 @@
     
     <item>
       <title>tidymodels.org</title>
-      <link>http://www2.hawaii.edu/~lynham/project/tidymodels.org/</link>
+      <link>https://lynham.github.io/project/tidymodels.org/</link>
       <pubDate>Tue, 21 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>http://www2.hawaii.edu/~lynham/project/tidymodels.org/</guid>
+      <guid>https://lynham.github.io/project/tidymodels.org/</guid>
       <description>&lt;p&gt;The tidymodels framework is a collection of R packages for modeling and machine learning using tidyverse principles. This website was built with Hugo, using a theme I developed and maintain. I worked with my former intern, 
 &lt;a href=&#34;https://desiree.rbind.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Desirée De Leon&lt;/a&gt;, to design the style of the website.&lt;/p&gt;
 </description>
@@ -184,9 +184,9 @@
     
     <item>
       <title>Introduction to Machine Learning with the Tidyverse</title>
-      <link>http://www2.hawaii.edu/~lynham/project/tidyml/</link>
+      <link>https://lynham.github.io/project/tidyml/</link>
       <pubDate>Mon, 27 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://www2.hawaii.edu/~lynham/project/tidyml/</guid>
+      <guid>https://lynham.github.io/project/tidyml/</guid>
       <description>&lt;p&gt;These workshops provide a gentle introduction to supervised machine learning: concepts, methods, and R code. Participants learn how to train and assess predictive models with several common machine learning algorithms, as well as how to do feature engineering to improve the predictive accuracy of their models. We focus on teaching intuitive explanations of the models and best practices for predictive modeling. Along the way, we introduce several core 
 &lt;a href=&#34;https://github.com/tidymodels&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;tidymodels&lt;/a&gt; packages, which provide a grammar for modeling that makes it easy to the right thing, and harder to accidentally do the wrong thing.&lt;/p&gt;
 &lt;p&gt;See the workshop websites for more, including links to the GitHub repositories for all workshop materials.&lt;/p&gt;
@@ -195,57 +195,57 @@
     
     <item>
       <title>Can demand-side management replicate a size limit in a small-scale fishery?</title>
-      <link>http://www2.hawaii.edu/~lynham/publication/ekawaty-2020-can/</link>
+      <link>https://lynham.github.io/publication/ekawaty-2020-can/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://www2.hawaii.edu/~lynham/publication/ekawaty-2020-can/</guid>
+      <guid>https://lynham.github.io/publication/ekawaty-2020-can/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Communication, Expectations, and Trust: An Experiment with Three Media</title>
-      <link>http://www2.hawaii.edu/~lynham/publication/abatayo-2020-communication/</link>
+      <link>https://lynham.github.io/publication/abatayo-2020-communication/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://www2.hawaii.edu/~lynham/publication/abatayo-2020-communication/</guid>
+      <guid>https://lynham.github.io/publication/abatayo-2020-communication/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Environmental market design for large-scale marine conservation</title>
-      <link>http://www2.hawaii.edu/~lynham/publication/villasenor-2020-environmental/</link>
+      <link>https://lynham.github.io/publication/villasenor-2020-environmental/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://www2.hawaii.edu/~lynham/publication/villasenor-2020-environmental/</guid>
+      <guid>https://lynham.github.io/publication/villasenor-2020-environmental/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Impact of two of the world&#39;s largest protected areas on longline fishery catch rates</title>
-      <link>http://www2.hawaii.edu/~lynham/publication/lynham-2020-impact/</link>
+      <link>https://lynham.github.io/publication/lynham-2020-impact/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://www2.hawaii.edu/~lynham/publication/lynham-2020-impact/</guid>
+      <guid>https://lynham.github.io/publication/lynham-2020-impact/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Opportunities for agent-based modelling in human dimensions of fisheries</title>
-      <link>http://www2.hawaii.edu/~lynham/publication/burgess-2020-opportunities/</link>
+      <link>https://lynham.github.io/publication/burgess-2020-opportunities/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://www2.hawaii.edu/~lynham/publication/burgess-2020-opportunities/</guid>
+      <guid>https://lynham.github.io/publication/burgess-2020-opportunities/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Risk preferences after a typhoon: An artefactual field experiment with fishers in the Philippines</title>
-      <link>http://www2.hawaii.edu/~lynham/publication/abatayo-2020-risk/</link>
+      <link>https://lynham.github.io/publication/abatayo-2020-risk/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://www2.hawaii.edu/~lynham/publication/abatayo-2020-risk/</guid>
+      <guid>https://lynham.github.io/publication/abatayo-2020-risk/</guid>
       <description></description>
     </item>
     
     <item>
       <title>education.rstudio.com</title>
-      <link>http://www2.hawaii.edu/~lynham/project/education.rstudio.com/</link>
+      <link>https://lynham.github.io/project/education.rstudio.com/</link>
       <pubDate>Tue, 24 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>http://www2.hawaii.edu/~lynham/project/education.rstudio.com/</guid>
+      <guid>https://lynham.github.io/project/education.rstudio.com/</guid>
       <description>&lt;p&gt;RStudio’s mission is:&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;“To equip everyone, regardless of means, to participate in a global economy that rewards data literacy.”&lt;/p&gt;
@@ -257,9 +257,9 @@
     
     <item>
       <title>R Markdown for Medicine</title>
-      <link>http://www2.hawaii.edu/~lynham/project/rmd4medicine/</link>
+      <link>https://lynham.github.io/project/rmd4medicine/</link>
       <pubDate>Thu, 12 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>http://www2.hawaii.edu/~lynham/project/rmd4medicine/</guid>
+      <guid>https://lynham.github.io/project/rmd4medicine/</guid>
       <description>&lt;p&gt;Starting with a mock clinical trial dataset, we’ll use R Markdown to combine prose, R code, and figures and tables created with R code into a nicely formatted and reproducible final manuscript.&lt;/p&gt;
 &lt;p&gt;For the 
 &lt;a href=&#34;https://r-medicine.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;2019 R / Medicine conference&lt;/a&gt;.&lt;/p&gt;
@@ -268,89 +268,89 @@
     
     <item>
       <title>Projects</title>
-      <link>http://www2.hawaii.edu/~lynham/projects/</link>
+      <link>https://lynham.github.io/projects/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>http://www2.hawaii.edu/~lynham/projects/</guid>
+      <guid>https://lynham.github.io/projects/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Resume</title>
-      <link>http://www2.hawaii.edu/~lynham/resume/</link>
+      <link>https://lynham.github.io/resume/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>http://www2.hawaii.edu/~lynham/resume/</guid>
+      <guid>https://lynham.github.io/resume/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Talks &amp; Workshops</title>
-      <link>http://www2.hawaii.edu/~lynham/talks/</link>
+      <link>https://lynham.github.io/talks/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>http://www2.hawaii.edu/~lynham/talks/</guid>
+      <guid>https://lynham.github.io/talks/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Vog: using volcanic eruptions to estimate the health costs of particulates</title>
-      <link>http://www2.hawaii.edu/~lynham/publication/halliday-2019-vog/</link>
+      <link>https://lynham.github.io/publication/halliday-2019-vog/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>http://www2.hawaii.edu/~lynham/publication/halliday-2019-vog/</guid>
+      <guid>https://lynham.github.io/publication/halliday-2019-vog/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Broad threat to humanity from cumulative climate hazards intensified by greenhouse gas emissions</title>
-      <link>http://www2.hawaii.edu/~lynham/publication/mora-2018-broad/</link>
+      <link>https://lynham.github.io/publication/mora-2018-broad/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>http://www2.hawaii.edu/~lynham/publication/mora-2018-broad/</guid>
+      <guid>https://lynham.github.io/publication/mora-2018-broad/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Does the allocation of property rights matter in the commons?</title>
-      <link>http://www2.hawaii.edu/~lynham/publication/leibbrandt-2018-pr/</link>
+      <link>https://lynham.github.io/publication/leibbrandt-2018-pr/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>http://www2.hawaii.edu/~lynham/publication/leibbrandt-2018-pr/</guid>
+      <guid>https://lynham.github.io/publication/leibbrandt-2018-pr/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Does the paradox of plenty exist? Experimental evidence on the curse of resource abundance</title>
-      <link>http://www2.hawaii.edu/~lynham/publication/leibbrandt-2018-rc/</link>
+      <link>https://lynham.github.io/publication/leibbrandt-2018-rc/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>http://www2.hawaii.edu/~lynham/publication/leibbrandt-2018-rc/</guid>
+      <guid>https://lynham.github.io/publication/leibbrandt-2018-rc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Facebook-to-Facebook: online communication and economic cooperation</title>
-      <link>http://www2.hawaii.edu/~lynham/publication/abatayo-2018-facebook/</link>
+      <link>https://lynham.github.io/publication/abatayo-2018-facebook/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>http://www2.hawaii.edu/~lynham/publication/abatayo-2018-facebook/</guid>
+      <guid>https://lynham.github.io/publication/abatayo-2018-facebook/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Rapid and lasting gains from solving illegal fishing</title>
-      <link>http://www2.hawaii.edu/~lynham/publication/cabral-2018-rapid/</link>
+      <link>https://lynham.github.io/publication/cabral-2018-rapid/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>http://www2.hawaii.edu/~lynham/publication/cabral-2018-rapid/</guid>
+      <guid>https://lynham.github.io/publication/cabral-2018-rapid/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Reply to ‘Achieving sustainable and equitable fisheries requires nuanced policies not silver bullets’</title>
-      <link>http://www2.hawaii.edu/~lynham/publication/cabral-2018-reply/</link>
+      <link>https://lynham.github.io/publication/cabral-2018-reply/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>http://www2.hawaii.edu/~lynham/publication/cabral-2018-reply/</guid>
+      <guid>https://lynham.github.io/publication/cabral-2018-reply/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Labhub</title>
-      <link>http://www2.hawaii.edu/~lynham/project/labhub/</link>
+      <link>https://lynham.github.io/project/labhub/</link>
       <pubDate>Thu, 14 Sep 2017 00:00:00 +0000</pubDate>
-      <guid>http://www2.hawaii.edu/~lynham/project/labhub/</guid>
+      <guid>https://lynham.github.io/project/labhub/</guid>
       <description>&lt;p&gt;In this workshop, Dr. Alison Hill and Robin Champieux demonstrated tools and methods for building transparency within a lab, and onboarding new graduate students and postdocs. We provided a 
 &lt;a href=&#34;https://github.com/apreshill/labhub&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;template GitHub repository&lt;/a&gt; and code of conduct designed to facilitate a healthy and productive learning and research environment. You are encouraged to use these tools to communicate expectations, document protocols, receive feedback, and facilitate the long-term value of students’ and trainees’ contributions.&lt;/p&gt;
 &lt;p&gt;Labhub is a &lt;em&gt;work in progress&lt;/em&gt;. We created 
@@ -360,9 +360,9 @@
     
     <item>
       <title>Up &amp; Running with blogdown</title>
-      <link>http://www2.hawaii.edu/~lynham/project/up-running-blogdown/</link>
+      <link>https://lynham.github.io/project/up-running-blogdown/</link>
       <pubDate>Thu, 14 Sep 2017 00:00:00 +0000</pubDate>
-      <guid>http://www2.hawaii.edu/~lynham/project/up-running-blogdown/</guid>
+      <guid>https://lynham.github.io/project/up-running-blogdown/</guid>
       <description>&lt;p&gt;We will cover:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;The &lt;strong&gt;blogdown&lt;/strong&gt; R package&lt;/li&gt;
@@ -397,10 +397,10 @@
 &lt;figure &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;http://www2.hawaii.edu/~lynham/~lynham/project/up-running-blogdown/blogdown-meetup_hu63626b89c4debd1240b389a830474d85_3596239_2000x2000_fit_q90_lanczos.jpg&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://lynham.github.io/project/up-running-blogdown/blogdown-meetup_hu63626b89c4debd1240b389a830474d85_3596239_2000x2000_fit_q90_lanczos.jpg&#34; &gt;
 
 
-  &lt;img data-src=&#34;http://www2.hawaii.edu/~lynham/~lynham/project/up-running-blogdown/blogdown-meetup_hu63626b89c4debd1240b389a830474d85_3596239_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;2550&#34; height=&#34;3300&#34;&gt;
+  &lt;img data-src=&#34;https://lynham.github.io/project/up-running-blogdown/blogdown-meetup_hu63626b89c4debd1240b389a830474d85_3596239_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;2550&#34; height=&#34;3300&#34;&gt;
 &lt;/a&gt;
 
 
@@ -412,33 +412,33 @@
     
     <item>
       <title>Costly stakeholder participation creates inertia in marine ecosystems</title>
-      <link>http://www2.hawaii.edu/~lynham/publication/lynham-2017-costly/</link>
+      <link>https://lynham.github.io/publication/lynham-2017-costly/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>http://www2.hawaii.edu/~lynham/publication/lynham-2017-costly/</guid>
+      <guid>https://lynham.github.io/publication/lynham-2017-costly/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Identifying peer effects using gold rushers</title>
-      <link>http://www2.hawaii.edu/~lynham/publication/lynham-2017-identifying/</link>
+      <link>https://lynham.github.io/publication/lynham-2017-identifying/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>http://www2.hawaii.edu/~lynham/publication/lynham-2017-identifying/</guid>
+      <guid>https://lynham.github.io/publication/lynham-2017-identifying/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The 1960 tsunami in Hawaii: long-term consequences of a coastal disaster</title>
-      <link>http://www2.hawaii.edu/~lynham/publication/lynham-20171960/</link>
+      <link>https://lynham.github.io/publication/lynham-20171960/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>http://www2.hawaii.edu/~lynham/publication/lynham-20171960/</guid>
+      <guid>https://lynham.github.io/publication/lynham-20171960/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Code Your Graph Workshop</title>
-      <link>http://www2.hawaii.edu/~lynham/project/code-your-graph/</link>
+      <link>https://lynham.github.io/project/code-your-graph/</link>
       <pubDate>Fri, 24 Jun 2016 00:00:00 +0000</pubDate>
-      <guid>http://www2.hawaii.edu/~lynham/project/code-your-graph/</guid>
+      <guid>https://lynham.github.io/project/code-your-graph/</guid>
       <description>
 
 
@@ -460,10 +460,10 @@
 &lt;figure &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;http://www2.hawaii.edu/~lynham/~lynham/project/code-your-graph/code-your-graph_hu9ebcd1d99c0a236c25b6db9f0e87e85d_160690_2000x2000_fit_q90_lanczos.jpg&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://lynham.github.io/project/code-your-graph/code-your-graph_hu9ebcd1d99c0a236c25b6db9f0e87e85d_160690_2000x2000_fit_q90_lanczos.jpg&#34; &gt;
 
 
-  &lt;img data-src=&#34;http://www2.hawaii.edu/~lynham/~lynham/project/code-your-graph/code-your-graph_hu9ebcd1d99c0a236c25b6db9f0e87e85d_160690_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;800&#34; height=&#34;800&#34;&gt;
+  &lt;img data-src=&#34;https://lynham.github.io/project/code-your-graph/code-your-graph_hu9ebcd1d99c0a236c25b6db9f0e87e85d_160690_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;800&#34; height=&#34;800&#34;&gt;
 &lt;/a&gt;
 
 
@@ -475,9 +475,9 @@
     
     <item>
       <title>Advanced R Markdown</title>
-      <link>http://www2.hawaii.edu/~lynham/project/advanced-r-markdown/</link>
+      <link>https://lynham.github.io/project/advanced-r-markdown/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>http://www2.hawaii.edu/~lynham/project/advanced-r-markdown/</guid>
+      <guid>https://lynham.github.io/project/advanced-r-markdown/</guid>
       <description>&lt;p&gt;This two-day workshop is designed for those who want to take their R Markdown skills to the next level. We’ll talk about many low-level details in the rmarkdown package and the whole R Markdown ecosystem. The two goals of this workshop are: 1) learn how to fully customize R Markdown output (HTML, LaTeX/PDF, Word, and PowerPoint); and 2) learn more about existing R Markdown extensions in the ecosystem, such as flexdashboard, bookdown, blogdown, pkgdown, xaringan, rticles, and learnr. We will also talk about how to use or develop new language engines (languages that are not R), how to develop HTML widgets, and integrate Shiny with R Markdown.&lt;/p&gt;
 &lt;p&gt;See the workshop website for more, and links to individual slides below.&lt;/p&gt;
 </description>
@@ -485,51 +485,51 @@
     
     <item>
       <title>Bakeoff</title>
-      <link>http://www2.hawaii.edu/~lynham/project/bakeoff/</link>
+      <link>https://lynham.github.io/project/bakeoff/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>http://www2.hawaii.edu/~lynham/project/bakeoff/</guid>
+      <guid>https://lynham.github.io/project/bakeoff/</guid>
       <description></description>
     </item>
     
     <item>
       <title>blogdown: Creating Websites with R Markdown</title>
-      <link>http://www2.hawaii.edu/~lynham/project/blogdown-book/</link>
+      <link>https://lynham.github.io/project/blogdown-book/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>http://www2.hawaii.edu/~lynham/project/blogdown-book/</guid>
+      <guid>https://lynham.github.io/project/blogdown-book/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Introduction to Data Wrangling, Analysis, &amp; Communication</title>
-      <link>http://www2.hawaii.edu/~lynham/project/ohsu-biostats/</link>
+      <link>https://lynham.github.io/project/ohsu-biostats/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>http://www2.hawaii.edu/~lynham/project/ohsu-biostats/</guid>
+      <guid>https://lynham.github.io/project/ohsu-biostats/</guid>
       <description>&lt;p&gt;Part of a year-long curricula on open science, data, and research practice for incoming graduate students in the biomedical sciences, developed in collaboration with OHSU School of MedicineGraduate Studies. This course was offered at Oregon Health &amp;amp; Science University to graduate students in the biomedical sciences.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Principles &amp; Practice of Data Visualization</title>
-      <link>http://www2.hawaii.edu/~lynham/project/ohsu-dataviz/</link>
+      <link>https://lynham.github.io/project/ohsu-dataviz/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>http://www2.hawaii.edu/~lynham/project/ohsu-dataviz/</guid>
+      <guid>https://lynham.github.io/project/ohsu-dataviz/</guid>
       <description>&lt;p&gt;This was a 12-week course with weekly 1.5 hour hands-on labs using R and the &lt;code&gt;ggplot2&lt;/code&gt; package. This course (CS631) was co-developed with Drs. Steven Bedrick and Jackie Wirz. This team-taught course was offered at Oregon Health &amp;amp; Science University to graduate students in the biomedical sciences.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Probability &amp; Statistics for Scientists and Engineers</title>
-      <link>http://www2.hawaii.edu/~lynham/project/ohsu-cs-stats/</link>
+      <link>https://lynham.github.io/project/ohsu-cs-stats/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>http://www2.hawaii.edu/~lynham/project/ohsu-cs-stats/</guid>
+      <guid>https://lynham.github.io/project/ohsu-cs-stats/</guid>
       <description></description>
     </item>
     
     <item>
       <title>RLadies xaringan theme</title>
-      <link>http://www2.hawaii.edu/~lynham/project/rladies-xaringan/</link>
+      <link>https://lynham.github.io/project/rladies-xaringan/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>http://www2.hawaii.edu/~lynham/project/rladies-xaringan/</guid>
+      <guid>https://lynham.github.io/project/rladies-xaringan/</guid>
       <description>
 
 
@@ -541,146 +541,146 @@
     
     <item>
       <title>Summer of blogdown</title>
-      <link>http://www2.hawaii.edu/~lynham/project/summer-of-blogdown/</link>
+      <link>https://lynham.github.io/project/summer-of-blogdown/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>http://www2.hawaii.edu/~lynham/project/summer-of-blogdown/</guid>
+      <guid>https://lynham.github.io/project/summer-of-blogdown/</guid>
       <description>&lt;p&gt;Four daily 1-hour sessions plus 30-60 minutes of homework for 3 nights. See links to each day&amp;rsquo;s materials, including slides and homeworks, below.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Endogenous vs. exogenous regulations in the commons</title>
-      <link>http://www2.hawaii.edu/~lynham/publication/abatayo-2016-endogenous/</link>
+      <link>https://lynham.github.io/publication/abatayo-2016-endogenous/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>http://www2.hawaii.edu/~lynham/publication/abatayo-2016-endogenous/</guid>
+      <guid>https://lynham.github.io/publication/abatayo-2016-endogenous/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Social networks and environmental outcomes</title>
-      <link>http://www2.hawaii.edu/~lynham/publication/barnes-2016-social/</link>
+      <link>https://lynham.github.io/publication/barnes-2016-social/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>http://www2.hawaii.edu/~lynham/publication/barnes-2016-social/</guid>
+      <guid>https://lynham.github.io/publication/barnes-2016-social/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Why does real-time information reduce energy consumption?</title>
-      <link>http://www2.hawaii.edu/~lynham/publication/lynham-2016-does/</link>
+      <link>https://lynham.github.io/publication/lynham-2016-does/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>http://www2.hawaii.edu/~lynham/publication/lynham-2016-does/</guid>
+      <guid>https://lynham.github.io/publication/lynham-2016-does/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Principles for managing marine ecosystems prone to tipping points</title>
-      <link>http://www2.hawaii.edu/~lynham/publication/selkoe-2015-principles/</link>
+      <link>https://lynham.github.io/publication/selkoe-2015-principles/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>http://www2.hawaii.edu/~lynham/publication/selkoe-2015-principles/</guid>
+      <guid>https://lynham.github.io/publication/selkoe-2015-principles/</guid>
       <description></description>
     </item>
     
     <item>
       <title>What determines social capital in a social--ecological system? Insights from a network perspective</title>
-      <link>http://www2.hawaii.edu/~lynham/publication/barnes-2015-determines/</link>
+      <link>https://lynham.github.io/publication/barnes-2015-determines/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>http://www2.hawaii.edu/~lynham/publication/barnes-2015-determines/</guid>
+      <guid>https://lynham.github.io/publication/barnes-2015-determines/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Where do social preferences come from?</title>
-      <link>http://www2.hawaii.edu/~lynham/publication/jang-2015-social/</link>
+      <link>https://lynham.github.io/publication/jang-2015-social/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>http://www2.hawaii.edu/~lynham/publication/jang-2015-social/</guid>
+      <guid>https://lynham.github.io/publication/jang-2015-social/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Economics of the Oceans: Rights, Rents and Resources</title>
-      <link>http://www2.hawaii.edu/~lynham/publication/lynham-2014-economics/</link>
+      <link>https://lynham.github.io/publication/lynham-2014-economics/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>http://www2.hawaii.edu/~lynham/publication/lynham-2014-economics/</guid>
+      <guid>https://lynham.github.io/publication/lynham-2014-economics/</guid>
       <description></description>
     </item>
     
     <item>
       <title>How have catch shares been allocated?</title>
-      <link>http://www2.hawaii.edu/~lynham/publication/lynham-2014-have/</link>
+      <link>https://lynham.github.io/publication/lynham-2014-have/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>http://www2.hawaii.edu/~lynham/publication/lynham-2014-have/</guid>
+      <guid>https://lynham.github.io/publication/lynham-2014-have/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Real-time information and consumption: what can water demand programs learn from electricity demand programs?</title>
-      <link>http://www2.hawaii.edu/~lynham/publication/lynham-2014-real/</link>
+      <link>https://lynham.github.io/publication/lynham-2014-real/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>http://www2.hawaii.edu/~lynham/publication/lynham-2014-real/</guid>
+      <guid>https://lynham.github.io/publication/lynham-2014-real/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Disaster in Paradise: A Preliminary Investigation of the Socioeconomic Aftermaths of Two Coastal Disasters in Hawaii</title>
-      <link>http://www2.hawaii.edu/~lynham/publication/lynham-2013-disaster/</link>
+      <link>https://lynham.github.io/publication/lynham-2013-disaster/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>http://www2.hawaii.edu/~lynham/publication/lynham-2013-disaster/</guid>
+      <guid>https://lynham.github.io/publication/lynham-2013-disaster/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ecomarkets for conservation and sustainable development in the coastal zone</title>
-      <link>http://www2.hawaii.edu/~lynham/publication/fujita-2013-ecomarkets/</link>
+      <link>https://lynham.github.io/publication/fujita-2013-ecomarkets/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>http://www2.hawaii.edu/~lynham/publication/fujita-2013-ecomarkets/</guid>
+      <guid>https://lynham.github.io/publication/fujita-2013-ecomarkets/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Field and online experiments on self-control</title>
-      <link>http://www2.hawaii.edu/~lynham/publication/burger-2011-field/</link>
+      <link>https://lynham.github.io/publication/burger-2011-field/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>http://www2.hawaii.edu/~lynham/publication/burger-2011-field/</guid>
+      <guid>https://lynham.github.io/publication/burger-2011-field/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Betting on weight loss… and losing: personal gambles as commitment mechanisms</title>
-      <link>http://www2.hawaii.edu/~lynham/publication/burger-2010-betting/</link>
+      <link>https://lynham.github.io/publication/burger-2010-betting/</link>
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
-      <guid>http://www2.hawaii.edu/~lynham/publication/burger-2010-betting/</guid>
+      <guid>https://lynham.github.io/publication/burger-2010-betting/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Economic incentives and global fisheries sustainability</title>
-      <link>http://www2.hawaii.edu/~lynham/publication/costello-2010-economic/</link>
+      <link>https://lynham.github.io/publication/costello-2010-economic/</link>
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
-      <guid>http://www2.hawaii.edu/~lynham/publication/costello-2010-economic/</guid>
+      <guid>https://lynham.github.io/publication/costello-2010-economic/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Political economy of marine reserves: Understanding the role of opportunity costs</title>
-      <link>http://www2.hawaii.edu/~lynham/publication/smith-2010-political/</link>
+      <link>https://lynham.github.io/publication/smith-2010-political/</link>
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
-      <guid>http://www2.hawaii.edu/~lynham/publication/smith-2010-political/</guid>
+      <guid>https://lynham.github.io/publication/smith-2010-political/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Diverse Fisheries Require Diverse Solutions Response</title>
-      <link>http://www2.hawaii.edu/~lynham/publication/lynham-2009-diverse/</link>
+      <link>https://lynham.github.io/publication/lynham-2009-diverse/</link>
       <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
-      <guid>http://www2.hawaii.edu/~lynham/publication/lynham-2009-diverse/</guid>
+      <guid>https://lynham.github.io/publication/lynham-2009-diverse/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Can catch shares prevent fisheries collapse?</title>
-      <link>http://www2.hawaii.edu/~lynham/publication/costello-2008-can/</link>
+      <link>https://lynham.github.io/publication/costello-2008-can/</link>
       <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
-      <guid>http://www2.hawaii.edu/~lynham/publication/costello-2008-can/</guid>
+      <guid>https://lynham.github.io/publication/costello-2008-can/</guid>
       <description></description>
     </item>
     

@@ -5,11 +5,11 @@
   "theme_color": "#06805E",
   "background_color": "#06805E",
   "icons": [{
-    "src": "/~lynham/images/icon_hua12831b0addb6ff2796cebd34c2f7d5a_402502_192x192_fill_lanczos_center_3.png",
+    "src": "/images/icon_hua12831b0addb6ff2796cebd34c2f7d5a_402502_192x192_fill_lanczos_center_3.png",
     "sizes": "192x192",
     "type": "image/png"
     }, {
-    "src": "/~lynham/images/icon_hua12831b0addb6ff2796cebd34c2f7d5a_402502_512x512_fill_lanczos_center_3.png",
+    "src": "/images/icon_hua12831b0addb6ff2796cebd34c2f7d5a_402502_512x512_fill_lanczos_center_3.png",
     "sizes": "512x512",
     "type": "image/png"
      }],
